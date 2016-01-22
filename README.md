@@ -1,7 +1,7 @@
 # cordovaNotes
 cordova/ionic相关笔记
 
-编译工程 
+编译工程   
 ionic build
 
 ionic替换图标／启动页
