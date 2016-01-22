@@ -25,6 +25,7 @@ lintOptions{
 
 ##指定 android 最低版本    
 在 config.xml 中加入     
+###
 		<preference name="android-minSdkVersion" value="19" />
 其中 value 为 api level，安卓版本和API关系：     
 https://en.wikipedia.org/wiki/Android_version_history       
