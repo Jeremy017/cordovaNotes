@@ -23,7 +23,7 @@ lintOptions{
     checkReleaseBuilds false     
 }
 
-##指定能装应用的 android 最低版本    
+##指定 android 最低版本    
 在 config.xml 中加入 <preference name="android-minSdkVersion" value="19" /> 具体版本 wiki 可查    
 参考：    
 http://stackoverflow.com/questions/27135185/how-can-i-specify-the-minimum-sdk-in-phonegap-it-is-ignoring-android-minsdkvers
